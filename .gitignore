@@ -1,4 +1,4 @@
-target/test-classes/*.class
+/target/test-classes/*.class
 *.iml
-target/generated-test-sources
-.idea/
+/target/generated-test-sources/
+/.idea/
